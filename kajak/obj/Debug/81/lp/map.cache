@@ -1,3 +1,10 @@
+Firebase
+LiteDB
+Newtonsoft.Json
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions
+System.Reactive
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -16,3 +23,11 @@ Xamarin.Android.Support.v7.AppCompat
 Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
 Xamarin.Essentials
+Xamarin.Firebase.Auth
+Xamarin.Firebase.Common
+Xamarin.GooglePlayServices.Base
+Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Maps
+Xamarin.GooglePlayServices.Tasks
+netstandard
+System.Runtime.InteropServices.WindowsRuntime

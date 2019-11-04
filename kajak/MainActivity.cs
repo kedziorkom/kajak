@@ -3,8 +3,15 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Widget;
+using Firebase;
+using Firebase.Auth;
+using System;
 using static Android.Views.View;
 using Android.Views;
+using Android.Gms.Tasks;
+using Android.Support.Design.Widget;
+using Android.Content.PM;
+
 
 namespace kajak
 {
@@ -47,8 +54,8 @@ namespace kajak
         private void InitFirebaseAuth()
         {
             var options = new FirebaseOptions.Builder()
-            .SetApplicationId("1:68142252041:android:a3236c3263470ef7")
-            .SetApiKey("AIzaSyBDL59DxShfWhRtIH4hXFMMJrrhM8WNQ8c")
+            .SetApplicationId("1:305899351327:android:d5111805fba1bee64fd42a")
+            .SetApiKey("AIzaSyDJJj4jymvdOhz0pwoO6GYSatCsd8i4AEE")
             .Build();
 
             if (app == null)
@@ -84,7 +91,7 @@ namespace kajak
         {
             if (task.IsSuccessful)
             {
-                StartActivity(new Android.Content.Intent(this, typeof(MainMenu)));
+                StartActivity(new Android.Content.Intent(this, typeof(AddMarker)));
                 Finish();
             }
             else
