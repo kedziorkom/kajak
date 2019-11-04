@@ -3447,17 +3447,17 @@ namespace kajak
 			// aapt resource value: 0x7F020002
 			public const int activity_main = 2130837506;
 			
-			// aapt resource value: 0x7F020027
-			public const int activity_sign_up = 2130837543;
+			// aapt resource value: 0x7F020028
+			public const int activity_sign_up = 2130837544;
 			
 			// aapt resource value: 0x7F0C0015
 			public const int add = 2131492885;
 			
-			// aapt resource value: 0x7F020181
-			public const int adjust_height = 2130837889;
+			// aapt resource value: 0x7F020182
+			public const int adjust_height = 2130837890;
 			
-			// aapt resource value: 0x7F020180
-			public const int adjust_width = 2130837888;
+			// aapt resource value: 0x7F020181
+			public const int adjust_width = 2130837889;
 			
 			// aapt resource value: 0x1
 			public const int ad_container = 1;
@@ -3486,11 +3486,11 @@ namespace kajak
 			// aapt resource value: 0x1
 			public const int android_pay_light_with_border = 1;
 			
-			// aapt resource value: 0x7F020187
-			public const int APP_NAME = 2130837895;
+			// aapt resource value: 0x7F020188
+			public const int APP_NAME = 2130837896;
 			
-			// aapt resource value: 0x7F020179
-			public const int app_name = 2130837881;
+			// aapt resource value: 0x7F020180
+			public const int app_name = 2130837888;
 			
 			// aapt resource value: 0x7F0C0006
 			public const int async = 2131492870;
@@ -3639,8 +3639,8 @@ namespace kajak
 			// aapt resource value: 0x7F0C0024
 			public const int customPanel = 2131492900;
 			
-			// aapt resource value: 0x7F020185
-			public const int dark = 2130837893;
+			// aapt resource value: 0x7F020186
+			public const int dark = 2130837894;
 			
 			// aapt resource value: 0x1
 			public const int date = 1;
@@ -3765,8 +3765,8 @@ namespace kajak
 			// aapt resource value: 0x7F0C000B
 			public const int icon_group = 2131492875;
 			
-			// aapt resource value: 0x7F020184
-			public const int icon_only = 2130837892;
+			// aapt resource value: 0x7F020185
+			public const int icon_only = 2130837893;
 			
 			// aapt resource value: 0x1
 			public const int icon_uri = 1;
@@ -3828,8 +3828,8 @@ namespace kajak
 			// aapt resource value: 0x1
 			public const int license_list = 1;
 			
-			// aapt resource value: 0x7F020186
-			public const int light = 2130837894;
+			// aapt resource value: 0x7F020187
+			public const int light = 2130837895;
 			
 			// aapt resource value: 0x7F0C000E
 			public const int line1 = 2131492878;
@@ -3878,6 +3878,9 @@ namespace kajak
 			
 			// aapt resource value: 0x1
 			public const int logo_only = 1;
+			
+			// aapt resource value: 0x7F020027
+			public const int map_container = 2130837543;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -4071,29 +4074,29 @@ namespace kajak
 			// aapt resource value: 0x7F0C006A
 			public const int shortcut = 2131492970;
 			
+			// aapt resource value: 0x7F020034
+			public const int signup_btn_forget_password = 2130837556;
+			
+			// aapt resource value: 0x7F020036
+			public const int signup_btn_login = 2130837558;
+			
 			// aapt resource value: 0x7F020033
-			public const int signup_btn_forget_password = 2130837555;
-			
-			// aapt resource value: 0x7F020035
-			public const int signup_btn_login = 2130837557;
-			
-			// aapt resource value: 0x7F020032
-			public const int signup_btn_register = 2130837554;
-			
-			// aapt resource value: 0x7F020029
-			public const int signup_email = 2130837545;
-			
-			// aapt resource value: 0x7F020028
-			public const int signup_input_email = 2130837544;
+			public const int signup_btn_register = 2130837555;
 			
 			// aapt resource value: 0x7F020030
-			public const int signup_input_password = 2130837552;
+			public const int signup_email = 2130837552;
 			
-			// aapt resource value: 0x7F020034
-			public const int signup_layout_or = 2130837556;
+			// aapt resource value: 0x7F020029
+			public const int signup_input_email = 2130837545;
 			
 			// aapt resource value: 0x7F020031
-			public const int signup_password = 2130837553;
+			public const int signup_input_password = 2130837553;
+			
+			// aapt resource value: 0x7F020035
+			public const int signup_layout_or = 2130837557;
+			
+			// aapt resource value: 0x7F020032
+			public const int signup_password = 2130837554;
 			
 			// aapt resource value: 0x1
 			public const int slide = 1;
@@ -4125,8 +4128,8 @@ namespace kajak
 			// aapt resource value: 0x7F0C0072
 			public const int src_over = 2131492978;
 			
-			// aapt resource value: 0x7F020182
-			public const int standard = 2130837890;
+			// aapt resource value: 0x7F020183
+			public const int standard = 2130837891;
 			
 			// aapt resource value: 0x7F0C0073
 			public const int start = 2131492979;
@@ -4275,8 +4278,8 @@ namespace kajak
 			// aapt resource value: 0x7F0C008F
 			public const int visible = 2131493007;
 			
-			// aapt resource value: 0x7F020183
-			public const int wide = 2130837891;
+			// aapt resource value: 0x7F020184
+			public const int wide = 2130837892;
 			
 			// aapt resource value: 0x7F0C0090
 			public const int wrap_content = 2131493008;
@@ -4502,6 +4505,9 @@ namespace kajak
 			// aapt resource value: 0x1
 			public const int license_menu_activity_no_licenses = 1;
 			
+			// aapt resource value: 0x7F030005
+			public const int MyLocationLayout = 2130903045;
+			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;
 			
@@ -4568,8 +4574,8 @@ namespace kajak
 			// aapt resource value: 0x7F0F003A
 			public const int select_dialog_singlechoice_material = 2131689530;
 			
-			// aapt resource value: 0x7F030005
-			public const int SignUp = 2130903045;
+			// aapt resource value: 0x7F030006
+			public const int SignUp = 2130903046;
 			
 			// aapt resource value: 0x7F0F003B
 			public const int support_simple_spinner_dropdown_item = 2131689531;
@@ -4721,6 +4727,12 @@ namespace kajak
 			// aapt resource value: 0x7F060003
 			public const int action_settings = 2131099651;
 			
+			// aapt resource value: 0x7F060010
+			public const int activity_description_mylocation = 2131099664;
+			
+			// aapt resource value: 0x7F060009
+			public const int activity_label_mylocation = 2131099657;
+			
 			// aapt resource value: 0x7F15001E
 			public const int appbar_scrolling_view_behavior = 2132082718;
 			
@@ -4853,56 +4865,56 @@ namespace kajak
 			// aapt resource value: 0x7F150020
 			public const int character_counter_pattern = 2132082720;
 			
-			// aapt resource value: 0x7F060045
-			public const int common_google_play_services_enable_button = 2131099717;
+			// aapt resource value: 0x7F060052
+			public const int common_google_play_services_enable_button = 2131099730;
 			
-			// aapt resource value: 0x7F060046
-			public const int common_google_play_services_enable_text = 2131099718;
+			// aapt resource value: 0x7F060053
+			public const int common_google_play_services_enable_text = 2131099731;
 			
-			// aapt resource value: 0x7F060047
-			public const int common_google_play_services_enable_title = 2131099719;
+			// aapt resource value: 0x7F060054
+			public const int common_google_play_services_enable_title = 2131099732;
 			
-			// aapt resource value: 0x7F060048
-			public const int common_google_play_services_install_button = 2131099720;
+			// aapt resource value: 0x7F060055
+			public const int common_google_play_services_install_button = 2131099733;
 			
-			// aapt resource value: 0x7F060049
-			public const int common_google_play_services_install_text = 2131099721;
+			// aapt resource value: 0x7F060056
+			public const int common_google_play_services_install_text = 2131099734;
 			
-			// aapt resource value: 0x7F060050
-			public const int common_google_play_services_install_title = 2131099728;
+			// aapt resource value: 0x7F060057
+			public const int common_google_play_services_install_title = 2131099735;
 			
-			// aapt resource value: 0x7F060051
-			public const int common_google_play_services_notification_ticker = 2131099729;
+			// aapt resource value: 0x7F060058
+			public const int common_google_play_services_notification_ticker = 2131099736;
 			
 			// aapt resource value: 0x1
 			public const int common_google_play_services_unknown_issue = 1;
 			
-			// aapt resource value: 0x7F060052
-			public const int common_google_play_services_unsupported_text = 2131099730;
-			
-			// aapt resource value: 0x7F060053
-			public const int common_google_play_services_update_button = 2131099731;
-			
-			// aapt resource value: 0x7F060054
-			public const int common_google_play_services_update_text = 2131099732;
-			
-			// aapt resource value: 0x7F060055
-			public const int common_google_play_services_update_title = 2131099733;
-			
-			// aapt resource value: 0x7F060056
-			public const int common_google_play_services_updating_text = 2131099734;
-			
-			// aapt resource value: 0x7F060057
-			public const int common_google_play_services_wear_update_text = 2131099735;
-			
-			// aapt resource value: 0x7F060058
-			public const int common_open_on_phone = 2131099736;
-			
 			// aapt resource value: 0x7F060059
-			public const int common_signin_button_text = 2131099737;
+			public const int common_google_play_services_unsupported_text = 2131099737;
 			
 			// aapt resource value: 0x7F060060
-			public const int common_signin_button_text_long = 2131099744;
+			public const int common_google_play_services_update_button = 2131099744;
+			
+			// aapt resource value: 0x7F060061
+			public const int common_google_play_services_update_text = 2131099745;
+			
+			// aapt resource value: 0x7F060062
+			public const int common_google_play_services_update_title = 2131099746;
+			
+			// aapt resource value: 0x7F060063
+			public const int common_google_play_services_updating_text = 2131099747;
+			
+			// aapt resource value: 0x7F060064
+			public const int common_google_play_services_wear_update_text = 2131099748;
+			
+			// aapt resource value: 0x7F060065
+			public const int common_open_on_phone = 2131099749;
+			
+			// aapt resource value: 0x7F060066
+			public const int common_signin_button_text = 2131099750;
+			
+			// aapt resource value: 0x7F060067
+			public const int common_signin_button_text_long = 2131099751;
 			
 			// aapt resource value: 0x1
 			public const int fcm_fallback_notification_channel_label = 1;
@@ -4910,8 +4922,20 @@ namespace kajak
 			// aapt resource value: 0x1
 			public const int gcm_fallback_notification_channel_label = 1;
 			
+			// aapt resource value: 0x7F060011
+			public const int latitude_string = 2131099665;
+			
 			// aapt resource value: 0x1
 			public const int license_content_error = 1;
+			
+			// aapt resource value: 0x7F060007
+			public const int location_permission_missing = 2131099655;
+			
+			// aapt resource value: 0x7F060006
+			public const int location_permission_rationale = 2131099654;
+			
+			// aapt resource value: 0x7F060012
+			public const int longitude_string = 2131099666;
 			
 			// aapt resource value: 0x7F060005
 			public const int MarkerApplied = 2131099653;
@@ -4921,6 +4945,9 @@ namespace kajak
 			
 			// aapt resource value: 0x1
 			public const int no_licenses_available = 1;
+			
+			// aapt resource value: 0x7F060008
+			public const int ok = 2131099656;
 			
 			// aapt resource value: 0x1
 			public const int oss_license_title = 1;

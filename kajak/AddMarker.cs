@@ -96,7 +96,7 @@ namespace kajak
             // firebase.auth().currentUser.toString();
 
             await firebase
-              .Child("Markers")
+              .Child("points")
               .PostAsync(new Marker() { Latitude=latitude,Longitude=longitude, Name=name,Type=type, ID= id });
         }
 

@@ -110,6 +110,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "kajak.dll" comes first in this list. */
+		"kajak.dll",
 		"Firebase.dll",
 		"LiteDB.dll",
 		"Newtonsoft.Json.dll",

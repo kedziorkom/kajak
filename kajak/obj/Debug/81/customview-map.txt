@@ -20,6 +20,7 @@ external-cache-path;D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\lp\24\jl\
 external-path;D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;obj\Debug\81\res\layout\mylocationlayout.xml
 ImageView;obj\Debug\81\res\layout\activity_main.xml
 ImageView;obj\Debug\81\res\layout\forgetpassword.xml
 ImageView;obj\Debug\81\res\layout\signup.xml
@@ -27,6 +28,7 @@ item;obj\Debug\81\res\values\strings.xml
 item;obj\Debug\81\res\values\styles.xml
 LinearLayout;obj\Debug\81\res\layout\activity_main.xml
 LinearLayout;obj\Debug\81\res\layout\addmarker.xml
+LinearLayout;obj\Debug\81\res\layout\mylocationlayout.xml
 LinearLayout;obj\Debug\81\res\layout\signup.xml
 paths;D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\lp\24\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\81\res\layout\activity_main.xml

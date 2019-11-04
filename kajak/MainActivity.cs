@@ -91,7 +91,7 @@ namespace kajak
         {
             if (task.IsSuccessful)
             {
-                StartActivity(new Android.Content.Intent(this, typeof(AddMarker)));
+                StartActivity(new Android.Content.Intent(this, typeof(MyLocationActivity)));
                 Finish();
             }
             else
