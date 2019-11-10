@@ -74,10 +74,11 @@ namespace kajak
             EditText e1 = FindViewById<EditText>(Resource.Id.editText1);
 
             Mname1 = e1.Text;
-
+            DateTime t1;
+            t1 = DateTime.Now;
             _ = AddMark(pX,pY,
                         Mname,
-                        Mtype,Markid);
+                        Mtype,Markid,t1);
             var layout = FindViewById(Android.Resource.Id.Content);
             Snackbar.Make(layout, Resource.String.MarkerApplied, Snackbar.LengthLong).Show();
             Finish();
@@ -91,13 +92,13 @@ namespace kajak
             Mtype1 = toast;
         }
 
-        public async Task AddMark(double latitude, double longitude, string name, string type, string id)
+        public async Task AddMark(double latitude, double longitude, string name, string type, string id, DateTime Timestamp)
         {
-            // firebase.auth().currentUser.toString();
+
 
             await firebase
               .Child("points")
-              .PostAsync(new Marker() { Latitude=latitude,Longitude=longitude, Name=name,Type=type, ID= id });
+              .PostAsync(new Marker() { timestamp = Timestamp, lat=latitude,lng=longitude, description=name,type=type, user= id });
         }
 
     }

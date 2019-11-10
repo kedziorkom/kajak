@@ -9,6 +9,7 @@ using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Util;
 using Android.Widget;
+using Firebase.Auth;
 using System;
 using static Android.Gms.Maps.GoogleMap;
 
@@ -20,6 +21,7 @@ namespace kajak
         static readonly string TAG = "MyLocationActivity";
 
         static readonly int REQUEST_PERMISSIONS_LOCATION = 1000;
+        FirebaseAuth auth;
 
         //LatLng point;
         double pointX = 0.0;
@@ -78,7 +80,9 @@ namespace kajak
             SetContentView(Resource.Layout.MyLocationLayout);
 
             this.AddMapFragmentToLayout(Resource.Id.map_container);
-            
+
+            auth = FirebaseAuth.GetInstance(MainActivity.app);
+
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Permission[] grantResults)

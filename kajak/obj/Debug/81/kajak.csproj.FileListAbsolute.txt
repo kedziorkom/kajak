@@ -229,3 +229,4 @@ D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\stamp\_ResolveLibraryProjectI
 D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\android\assets\machine.config
 D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\stamp\_CompileToDalvik.stamp
+D:\Users\MSI\source\repos\kajak\kajak\obj\Debug\81\android\assets\System.Runtime.dll

@@ -4,7 +4,7 @@
 
   <string name="marker_type">Choose a planet</string>
   <string-array name="marker_types">
-    <item>Wydarzenie</item>
+    <item>Pole Biwakowe</item>
     <item>Utrudnienia</item>
     <item>Punkt Widokowy</item>
     <item>Sklep</item>

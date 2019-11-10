@@ -16,11 +16,14 @@ namespace kajak
 {
     public class Marker
     {
-       // public int ID { get; set; }
-        public Double Latitude { get; set; }
-        public Double Longitude { get; set; }
-        public string Type { get; set; }
-        public string Name { get; set; }
-        public string ID { get; set; }
+        public int ID { get; set; }
+        public Double lat { get; set; }
+        public Double lng { get; set; }
+        public string img { get; set; }
+        public string type { get; set; }
+        public string description { get; set; }
+        public string user { get; set; }
+        public DateTime timestamp { get; set; }
+        public string tour { get; set; }
     }
 }
